@@ -487,6 +487,16 @@ span{
     width: 100%;
     max-width: 600px;
 }
+.contact-content a {
+    color: red;
+    text-decoration: none;
+}
+
+.contact-content a:hover {
+    text-decoration: underline;
+    color: lime;
+}
+
 
 .form-item {
     display: flex;
